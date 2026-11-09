@@ -1,0 +1,6 @@
+{
+  "name": "Randomizer",
+  "description": "A feature-rich random number generator app with customizable ranges, multiple number draws, dice rolls, coin flips, and history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
